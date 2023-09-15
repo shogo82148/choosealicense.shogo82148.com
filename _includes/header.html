@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="{{ 'assets/css/application.css' | relative_url }}?v={{ site.github.build_revision }}">
     <link rel="shortcut icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <script src="{{ 'assets/js/budoux-ja.min.js' | relative_url }}"></script>
 
     {% seo %}
   </head>
@@ -16,5 +17,5 @@
       {% include breadcrumbs.html %}
 
       {% if page.title %}
-        <h1>{{ page.title | markdownify | strip_html | strip_newlines }}</h1>
+        <h1><budoux-ja>{{ page.title | markdownify | strip_html | strip_newlines }}</budoux-ja></h1>
       {% endif %}
