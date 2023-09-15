@@ -54,3 +54,7 @@
 - name: redirect_from
   description: 古いURLが壊れるのを防ぐために、ライセンスからリダイレクトする相対パス
   required: false
+
+- name: translate
+  description: 多言語訳
+  required: false
