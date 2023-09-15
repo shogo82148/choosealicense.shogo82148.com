@@ -1,9 +1,9 @@
 ---
-title: Choose a License
-description: Non-judgmental guidance on choosing a license for your open source project
+title: ライセンスを選ぼう
+description: オープンソースプロジェクトのライセンス選択に関する偏見のないガイダンス
 relative_permalinks: false
 markdown: kramdown
-url: "https://choosealicense.com"
+url: "https://choosealicense.shogo82148.com"
 
 collections:
   licenses:
@@ -11,8 +11,7 @@ collections:
     permalink: /licenses/:path/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "licenses"
     values:
@@ -44,7 +43,7 @@ plugins:
   - jekyll-github-metadata # For 'Improve this page' links
 
 sass:
-    style: :compressed
+  style: :compressed
 
 twitter:
   username: "@github"
