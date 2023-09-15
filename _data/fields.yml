@@ -5,22 +5,22 @@
 # notices. The available variables are:
 
 - name: fullname
-  description: The full name or username of the repository owner
+  description: リポジトリ所有者のフルネームまたはユーザー名
 
 - name: login
-  description: The repository owner's username
+  description: リポジトリ所有者のユーザー名
 
 - name: email
-  description: The repository owner's primary email address
+  description: リポジトリ所有者のプライマリメールアドレス
 
 - name: project
-  description: The repository name
+  description: リポジトリ名
 
 - name: description
-  description: The description of the repository
+  description: リポジトリの説明
 
 - name: year
-  description: The current year
+  description: 現在の年
 
 - name: projecturl
-  description: The repository URL or other project website
+  description: リポジトリのURLまたはその他のプロジェクトのウェブサイト
