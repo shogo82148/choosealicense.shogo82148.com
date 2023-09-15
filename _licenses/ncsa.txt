@@ -10,6 +10,7 @@ how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of 
 using:
   RLTK: https://github.com/chriswailes/RLTK/blob/master/LICENSE
   ToaruOS: https://github.com/klange/toaruos/blob/master/LICENSE
+  Linear Models: https://github.com/bashtage/linearmodels/blob/main/LICENSE.md
 
 permissions:
   - commercial-use
