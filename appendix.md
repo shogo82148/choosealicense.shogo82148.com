@@ -1,13 +1,13 @@
 ---
 layout: default
 permalink: /appendix/
-title: Appendix
+title: 付録
 class: license-types
 ---
 
-For reference, here is a table of every license described in the [choosealicense.com repository](https://github.com/github/choosealicense.com).
+<budoux-ja>参考までに、</budoux-ja>[choosealicense.com リポジトリ](https://github.com/github/choosealicense.com)<budoux-ja>で説明されているすべてのライセンスの表を以下に示します。</budoux-ja>
 
-If you're here to choose a license, **[start from the home page](/)** to see a few licenses that will work for most cases.
+<budoux-ja>ライセンスを選択するためにここにいる場合は、ほとんどの場合に適用されるいくつかのライセンスを表示するために、</budoux-ja>**[ホームページから始めてください](/)**。
 
 <table border style="font-size: xx-small; position: relative">
 {% assign types = "permissions|conditions|limitations" | split: "|" %}
