@@ -4,26 +4,26 @@ permalink: no-permission/
 redirect_from:
   - /no-license/
   - /licenses/no-license/
-title: No License
-description: "You're under no obligation to choose a license and it's your right not to include one with your code or project. But please note that opting out of open source licenses doesn't mean you're opting out of copyright law."
+title: ライセンスを選択しない
+description: "ライセンスを選択する義務はありません。また、コードやプロジェクトにライセンスを含めない権利があります。ただし、オープンソースライセンスからの除外は、著作権法から除外されるわけではないことに注意してください。"
 ---
 
-When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation. Once the work has other contributors (each a copyright holder), “nobody” starts including you.
+創作物（コードを含む）を作成すると、作品はデフォルトで独占的に著作権で保護されます。とく指定しない限り、ライセンスを含めない場合、他の誰もあなたの作品をコピー、配布、または変更することはできません。作品に他の寄稿者（それぞれ著作権保有者）がいる場合、「誰も」にはあなたも含まれます。
 
-Even in the absence of a license file, you may grant some rights in cases where you publish your source code to a site that requires accepting terms of service. For example, if you publish your source code in a public repository on GitHub, you have accepted the [Terms of Service](https://help.github.com/articles/github-terms-of-service), by which you allow others to view and fork your repository. Others may not need your permission if [limitations and exceptions to copyright](https://en.wikipedia.org/wiki/Limitations_and_exceptions_to_copyright) apply to their particular situation. Neither site terms nor jurisdiction-specific copyright limitations are sufficient for the kinds of collaboration that people usually seek on a public code host, such as experimentation, modification, and sharing as fostered by an open source license.
+ライセンスファイルが存在しない場合でも、利用規約の承諾が必要なサイトにソースコードを公開する場合、いくつかの権利を付与できます。たとえば、GitHub の公開リポジトリにソースコードを公開する場合、[利用規約](https://help.github.com/articles/github-terms-of-service)に同意したことになり、他の人があなたのリポジトリを表示してフォークすることを許可します。他の人が特定の状況において著作権の制限や例外が適用される場合、あなたの許可は必要ない場合があります。サイトの利用規約や特定の管轄区域の著作権の制限だけでは、オープンソースライセンスによって促進される実験、修正、共有などの一般的なコラボレーションの形態を求める人々が公開コードホストで通常求めるものには十分ではありません。
 
-You don't have to do anything to *not* offer a license. You may, however, wish to add a copyright notice and statement that you are not offering any license in a prominent place (e.g., your project's README) so that [users](#for-users) don't assume you made an oversight. If you're going to accept others' contributions to your non-licensed project, you may wish to explore adding a contributor agreement to your project with your lawyer so that you maintain copyright permission from contributors, even though you're not granting the same.
+ライセンスを提供しない場合は、何もする必要はありません。ただし、[ユーザー](#for-users)が見落としをしたと思われないように、著作権表示とライセンスが提供されていないことを明示する声明を目立つ場所（たとえば、プロジェクトの README）に追加することを検討できます。ライセンスがないプロジェクトに他の人の貢献を受け入れる場合は、あなたの弁護士と一緒に貢献者契約をプロジェクトに追加して、貢献者から著作権許可を維持することを検討できます。
 
-Disallowing use of your code might not be what you intend by "no license." An [open source license](/) allows reuse of your code while retaining copyright. If your goal is to completely opt-out of copyright restrictions, try a [public domain dedication](/licenses/#unlicense) instead.
+「ライセンスがない」という意味で「あなたのコードの使用を禁止する」という意図ではないかもしれません。[オープンソースライセンス](/)は、あなたのコードの再利用を許可しながら、著作権を保持します。完全に著作権制限から外れることが目的である場合は、[パブリックドメインの指定](/licenses/#unlicense)を試してみてください。
 
-## For users
+## ユーザー向け
 
-If you find software that doesn't have a license, that generally means you have no permission from the creators of the software to use, modify, or share the software. Although a code host such as GitHub may allow you to view and fork the code, this does not imply that you are permitted to use, modify, or share the software for any purpose.
+ライセンスがないソフトウェアを見つけた場合、一般的には、ソフトウェアの作成者から使用、変更、または共有する許可がないことを意味します。GitHub などのコードホストを使用してコードを表示およびフォークすることができる場合があるため、これは、あなたが任意の目的でソフトウェアを使用、変更、または共有することが許可されていることを意味しません。
 
-Your options:
+あなたのオプション:
 
 {: .bullets}
 
-- **Ask the maintainers nicely to add a license.** Unless the software includes strong indications to the contrary, lack of a license is probably an oversight. If the software is hosted on a site like GitHub, open an issue requesting a license and include a link to this site. If you're bold and it's fairly obvious what license is most appropriate, open a pull request to add a license – see "suggest this license" in the sidebar of the page for each license on this site (e.g., [MIT](/licenses/mit/#suggest-this-license)).
-- **Don't use the software.** Find or create an alternative that is under an open source license.
-- **Negotiate a private license.** Bring your lawyer.
+- **メンテナーにライセンスの追加をお願いする。** ソフトウェアに明確な逆の指示が含まれていない限り、ライセンスがない場合は、おそらく見落としです。GitHub のようなサイトにホストされている場合は、ライセンスを要求する問題を開き、このサイトへのリンクを含めます。大胆で、もっとも適切なライセンスがかなり明らかな場合は、ライセンスを追加するためのプルリクエストを開くことができます。各ライセンスページのサイドバーにある「このライセンスを提案する」を参照してください (例： [MIT](/licenses/mit/#suggest-this-license)).
+- **ソフトウェアを使用しない。** オープンソースライセンスの下にある代替品を見つけるか作成してください。
+- **プライベートライセンスを交渉する。** 弁護士を連れてきてください。
