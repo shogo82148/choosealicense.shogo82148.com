@@ -4,11 +4,11 @@ spdx-id: MPL-2.0
 redirect_from: /licenses/mozilla/
 hidden: false
 
-description: Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
+description: この弱いコピーレフトライセンスの許可は、ライセンスされたファイルおよびそれらのファイルの変更点のソースコードを、同じライセンス（または一部の場合、GNUライセンスのいずれか）の下で提供することに条件付けられています。著作権およびライセンス表示を保持する必要があります。貢献者は特許権の明示的な付与を提供します。ただし、ライセンスされた作品を使用する大規模な作品は、ライセンスされた作品に追加されたファイルのソースコードを提供せず、異なる条件で配布される場合があります。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: The Mozilla Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license (Exhibit A).
+note: Mozilla Foundationは、各ファイルの先頭にボイラープレート通知を追加することを推奨しています。ボイラープレートはライセンスの末尾（付録A）にあります。
 
 using:
   Servo: https://github.com/servo/servo/blob/master/LICENSE
