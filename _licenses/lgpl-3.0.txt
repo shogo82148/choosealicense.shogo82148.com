@@ -4,11 +4,11 @@ spdx-id: LGPL-3.0
 nickname: GNU LGPLv3
 redirect_from: /licenses/lgpl-v3/
 
-description: Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications under the same license or the GNU GPLv3. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work.
+description: このコピーレフトライセンスの許可は、ライセンスされた作品および変更点の完全なソースコードを、同じライセンスまたはGNU GPLv3の下で提供することに条件付けられています。著作権およびライセンス表示を保持する必要があります。貢献者は特許権の明示的な付与を提供します。ただし、ライセンスされた作品を介して提供されるインターフェイスを介してライセンスされた作品を使用する大規模な作品は、異なる条件で配布され、大規模な作品のソースコードを提供する必要はありません。
 
-how: This license is an additional set of permissions to the <a href="/licenses/gpl-3.0">GNU GPLv3</a> license. Follow the instructions to apply the GNU GPLv3, in the root of your source code. Then add another file named COPYING.LESSER and copy the text.
+how: このライセンスは、<a href="/licenses/gpl-3.0">GNU GPLv3</a>ライセンスの追加許可です。ソースコードのルートにGNU GPLv3を適用する手順にしたがってください。その後、別のファイル名COPYING.LESSERを追加し、テキストをコピーします。
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the <a href="/licenses/gpl-3.0">GNU GPLv3 license</a>. Insert the word “Lesser” before “General” in all three places in the boilerplate notice to make sure that you refer to the GNU LGPLv3 and not the GNU GPLv3.
+note: Free Software Foundationは、各ファイルの先頭にボイラープレート通知を追加することを推奨しています。ボイラープレートは<a href="/licenses/gpl-3.0">GNU GPLv3ライセンス</a>の末尾にあります。ボイラープレート通知の3か所すべてに「Lesser」を挿入して、GNU LGPLv3を参照することを確認してください。
 
 using:
 
