@@ -1,32 +1,40 @@
 ---
 layout: default
 permalink: /about/
-title: "What's this about?"
+title: "このサイトについて"
 ---
 
-GitHub wants to help developers choose an open source license for their source code.
+このサイトは [choosealicense.com](https://choosealicense.com)の非公式日本語訳です。
 
-If you already know what you're doing and have a license you prefer to use, that's great! We're not here to change your mind. But if you are bewildered by the large number of choices, maybe we can help.
+以下、[What's this about?](https://choosealicense.com/about) の翻訳です。
 
-## Not comprehensive
+---
 
-This site is not a comprehensive directory of open source licenses. The vast majority of projects will likely be well served by one of the three options highlighted on the [homepage](/) — choosing the license [preferred](/community/) by projects similar to yours, or the most popular permissive license ([MIT](/licenses/mit/)), or the most popular copyleft license ([GNU GPLv3](/licenses/gpl-3.0/)). Just in case you have specific needs not covered by these, we also highlight a [few other licenses to consider](/licenses/) and have a page about [licenses for non-software projects](/non-software/).
+GitHub は、開発者がソースコードにオープンソースライセンスを選択するのを支援することを目的としています。
 
-See our [appendix](/appendix/) for a table of every license cataloged in the [choosealicense.com repository](https://github.com/github/choosealicense.com) and the links below for *even more* licenses that you **do not** need to learn about to still choose a great license for your project.
+すでに何をしているかわかっていて、使用するライセンスがある場合は、素晴らしいです！私たちはあなたの考えを変えるためにここにいるわけではありません。しかし、多数の選択肢に困惑している場合は、お手伝いできるかもしれません。
 
-### Additional resources
+## 網羅的ではありません
+
+このサイトはオープンソースライセンスの包括的なディレクトリではありません。ほとんどのプロジェクトは、[ホームページ](/)で強調されている 3 つのオプションのうちの 1 つを選択することで十分に対応できるでしょう。それは、あなたのプロジェクトに類似したプロジェクトが好むライセンス、もっとも人気のある許容ライセンス（[MIT](/licenses/mit/)）、またはもっとも人気のあるコピーレフトライセンス（[GNU GPLv3](/licenses/gpl-3.0/)）です。これらでカバーされていない特定のニーズがある場合に備えて、[考慮すべきいくつかのその他のライセンス](/licenses/)を強調し、[非ソフトウェアプロジェクト用のライセンス](/non-software/)についてのページも用意しています。
+
+[choosealicense.com リポジトリ](https://github.com/github/choosealicense.com)にカタログ化されたすべてのライセンスの表については、[付録](/appendix/)を参照してください。また、プロジェクトに適した素晴らしいライセンスを選択するために学ぶ**必要のない** *さらに多くの*ライセンスについては、以下のリンクを参照してください。
+
+### 追加リソース
 
 {: .bullets}
 
-* Open Source Initiative's FAQ on [Which Open Source license should I choose to release my software under?](https://opensource.org/faq#which-license)
-* Free Software Foundation's [advice on how to choose a license](https://www.gnu.org/licenses/license-recommendations.html)
-* [Joinup Licensing Assistant](https://joinup.ec.europa.eu/collection/eupl/joinup-licensing-assistant-jla), an interactive license chooser from the European Commission
-* [The Legal Side of Open Source](https://opensource.guide/legal/), an Open Source Guide covering licensing and related issues
+- オープンソースイニシアチブの FAQ「[どのオープンソースライセンスを選択してソフトウェアをリリースすべきか？](https://opensource.org/faq#which-license)」
+- フリーソフトウェア財団の「[ライセンスを選択する方法](https://www.gnu.org/licenses/license-recommendations.html)」に関するアドバイス
+- 欧州委員会の[ライセンス選択ツール](https://joinup.ec.europa.eu/collection/eupl/joinup-licensing-assistant-jla)
+- ライセンスと関連問題をカバーするオープンソースガイド「[オープンソースの法的側面](https://opensource.guide/legal/)」
 
-## Help us improve it
+## 改善に協力してください
 
-Choosealicense.com isn't just about open source; the site itself is open source as well. See something you think could be done better? Feel free to [fork the project](https://github.com/github/choosealicense.com) on GitHub and submit a pull request. We welcome your improvements.
+Choosealicense.com はオープンソースに関するものだけでなく、サイト自体もオープンソースです。改善できると思うことがあれば、GitHub で[プロジェクトをフォーク](https://github.com/github/choosealicense.com)してプルリクエストを送信してください。あなたの改善を歓迎します。
 
-## Disclaimer
+（訳注：日本語訳のソースコードも[GitHub リポジトリ](https://github.com/shogo82148/choosealicense.shogo82148.com)で公開しています。みなさんからの改善を歓迎します。）
 
-We are not lawyers. Well, most of us anyway. It is not the goal of this site to provide legal advice. The goal of this site is to provide a starting point to help you make an informed choice by providing information on popular open source licenses in a simplified fashion. If you have any questions regarding the best license for your code or any other legal issues relating to it, it's your responsibility to do further research or consult with a professional.
+## 免責事項
+
+私たちは弁護士ではありません。まあ、私たちのほとんどはそうではありません。このサイトの目的は法的アドバイスを提供することではありません。このサイトの目的は、人気のあるオープンソースライセンスに関する情報を簡略化して提供することにより、情報を提供して、情報を得て選択をするための出発点を提供することです。あなたのコードに最適なライセンスやそれに関連するその他の法的問題に関する質問がある場合は、さらに調査を行うか、専門家に相談する責任があります。
