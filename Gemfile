@@ -18,7 +18,7 @@ group :development do
 end
 
 group :test do
-  gem 'html-proofer', '~> 5.0'
+  gem 'html-proofer', '~> 3.0'
   gem 'licensee', git: 'https://github.com/licensee/licensee.git', branch: 'master'
   gem 'rake'
   gem 'rspec'
