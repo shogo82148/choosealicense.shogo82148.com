@@ -2,55 +2,55 @@
 # The available fields are:
 
 - name: title
-  description: The license full name specified by https://spdx.org/licenses/
+  description: https://spdx.org/licenses/ で指定されたライセンスのフルネーム
   required: true
 
 - name: spdx-id
-  description: Short identifier specified by https://spdx.org/licenses/
+  description: https://spdx.org/licenses/ で指定された短い識別子
   required: true
 
 - name: description
-  description: A human-readable description of the license
+  description: 人間が読めるライセンスの説明
   required: true
 
 - name: how
-  description: Instructions on how to implement the license
+  description: ライセンスを実装する方法に関する手順書
   required: true
 
 - name: conditions
-  description: Bulleted list of required rules
+  description: 必要なルールの箇条書きリスト
   required: true
 
 - name: permissions
-  description: Bulleted list of permitted rules
+  description: 許可されたルールの箇条書きリスト
   required: true
 
 - name: limitations
-  description: Bulleted list of limited rules
+  description: 制限事項の箇条書きリスト
   required: true
 
 - name: using
-  description: 'A list of 3 notable projects using the license with straightforward LICENSE files which serve as examples newcomers can follow and that can be detected by [licensee](https://github.com/licensee/licensee) in the form of `project_name: license_file_url`'
+  description: "新参者がしたがうことができ、`project_name: license_file_url`の形式で[licensee](https://github.com/licensee/licensee)によって検出できる、明確なLICENSEファイルを使用するライセンスを使用している3つの注目すべきプロジェクトのリスト"
   required: true
 
 # Optional fields
 
 - name: featured
-  description: Whether the license should be featured on the main page (defaults to false)
+  description: ライセンスがメインページに表示されるべきかどうか（デフォルトはfalse）
   required: false
 
 - name: hidden
-  description: Whether the license is neither [popular](https://opensource.org/licenses) nor fills out the [spectrum of licenses](https://choosealicense.com/licenses/) from strongly conditional to unconditional (defaults to true)
+  description: ライセンスが、[popular](https://opensource.org/licenses)でもなく、強く条件付けられたものから無条件のものまでの[ライセンスのスペクトル](https://choosealicense.com/licenses/)を埋めるものでもないかどうか（デフォルトはtrue）
   required: false
 
 - name: nickname
-  description: Customary short name if applicable (e.g, GPLv3)
+  description: 適用される場合の慣習的な短い名前（例：GPLv3）
   required: false
 
 - name: note
-  description: Additional information about the licenses
+  description: ライセンスに関する追加情報
   required: false
 
 - name: redirect_from
-  description: Relative path(s) to redirect to the license from, to prevent breaking old URLs
+  description: 古いURLが壊れるのを防ぐために、ライセンスからリダイレクトする相対パス
   required: false
