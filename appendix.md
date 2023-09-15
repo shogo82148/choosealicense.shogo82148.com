@@ -64,13 +64,13 @@ If you're here to choose a license, **[start from the home page](/)** to see a f
 {% endfor %}
 </table>
 
-## Legend
+## 凡例
 
-<p>Open source licenses grant to the public <span class="license-permissions"><span class="license-sprite"></span></span> <b>permissions</b> to do things with licensed works which copyright or other "intellectual property" laws might otherwise disallow.</p>
+<p>オープンソースライセンスは、著作権その他の「知的財産」法が許容しないことを許可する<span class="license-permissions"><span class="license-sprite"></span></span> <b>権限</b>を一般に提供します。</p>
 
-<p>Most open source licenses' grants of permissions are subject to compliance with <span class="license-conditions"><span class="license-sprite"></span></span> <b>conditions</b>.</p>
+<p>ほとんどのオープンソースライセンスの許可は、<span class="license-conditions"><span class="license-sprite"></span></span> <b>条件</b>の遵守に従うことが前提となっています。</p>
 
-<p>Most open source licenses also have <span class="license-limitations"><span class="license-sprite"></span></span> <b>limitations</b> that usually disclaim warranty and liability, and sometimes expressly exclude patents or trademarks from licenses' grants.</p>
+<p>ほとんどのオープンソースライセンスには、<span class="license-limitations"><span class="license-sprite"></span></span> <b>制限事項</b>があり、通常は保証や責任を否認し、特許や商標を明示的に除外することがあります。</p>
 
 <dl>
 {% assign seen_tags = '' %}
