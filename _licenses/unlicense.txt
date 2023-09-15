@@ -3,9 +3,9 @@ title: The Unlicense
 spdx-id: Unlicense
 hidden: false
 
-description: A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: 作品をパブリックドメインに捧げる条件がまったくないライセンス。ライセンスされていない作品、修正、および大規模な作品は、異なる条件で、ソースコードなしで配布できます。
 
-how: Create a text file (typically named UNLICENSE or UNLICENSE.txt) in the root of your source code and copy the text of the license disclaimer into the file.
+how: ソースコードのルートに通常はUNLICENSEまたはUNLICENSE.txtという名前のテキストファイルを作成し、ライセンスの免責事項のテキストをファイルにコピーします。
 
 using:
   kakoune: https://github.com/mawww/kakoune/blob/master/UNLICENSE
@@ -24,6 +24,17 @@ limitations:
   - liability
   - warranty
 
+translate:
+  ja: |-
+    これはパブリックドメインにリリースされた自由で無償のソフトウェアです。
+
+    このソフトウェアは、商用または非商用を問わず、どの目的にでも、ソースコード形式またはコンパイルされたバイナリ形式で、自由にコピー、変更、公開、使用、コンパイル、販売、配布できます。
+
+    著作権法を認める管轄区域では、このソフトウェアの著作権利者は、このソフトウェアに関するすべての著作権利益をパブリックドメインに寄贈します。私たちは、この寄贈を、私たちの相続人や後継者の不利益になるように意図して、一般の利益のために行っています。私たちは、この寄贈を、著作権法に基づく現在および将来のすべての権利を永久に放棄する明示的な行為であると考えています。
+
+    このソフトウェアは、「現状有姿」で提供されており、明示または黙示を問わず、商品性、特定目的への適合性、および非侵害性に関するいかなる保証もありません。作者は、契約、不法行為、またはその他の行為に基づく、クレーム、損害、またはその他の責任について、ソフトウェアまたはその使用またはその他の取引に起因するものを含め、一切の責任を負いません。
+
+    詳細については、<https://unlicense.org>を参照してください。
 ---
 
 This is free and unencumbered software released into the public domain.
