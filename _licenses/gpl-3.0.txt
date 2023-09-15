@@ -6,11 +6,11 @@ redirect_from: /licenses/gpl-v3/
 featured: true
 hidden: false
 
-description: Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+description: この強力なコピーレフトライセンスの許可は、ライセンスされた作品および変更点（ライセンスされた作品を使用する大規模な作品を含む）の完全なソースコードを、同じライセンスの下で提供することに条件付けられています。著作権およびライセンス表示を保持する必要があります。貢献者は特許権の明示的な付与を提供します。
 
-how: Create a text file (typically named COPYING, as per GNU conventions) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに、通常はGNUの規約にしたがってCOPYINGという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: Free Software Foundationは、各ファイルの先頭にボイラープレート通知を追加することを推奨しています。ボイラープレートはライセンスの末尾にあります。
 
 using:
   Ansible: https://github.com/ansible/ansible/blob/devel/COPYING
