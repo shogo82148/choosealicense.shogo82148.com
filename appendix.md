@@ -21,7 +21,7 @@ class: license-types
         {% continue %}
       {% endif %}
       {% capture seen_tags %}{{ seen_tags | append:rule_obj.tag }}{% endcapture %}
-      <th scope="col" style="text-align: center; width:7%"><a href="#{{ rule_obj.tag }}"><budoux-ja>{{ rule_obj.label }}</budoux-ja></a></th>
+      <th scope="col" style="text-align: center; width:7%"><a href="#{{ rule_obj.tag }}"><budoux-ja>{{ rule_obj.label_ja }}</budoux-ja></a></th>
     {% endfor %}
   {% endfor %}
 </tr>
@@ -81,7 +81,7 @@ class: license-types
     {% if seen_tags contains req %}
       {% continue %}
     {% endif %}
-    <dt id="{{ req }}"><budoux-ja>{{ rule_obj.label }}（{{ rule_obj.label_ja }}）</budoux-ja></dt>
+    <dt id="{{ req }}">{{ rule_obj.label_ja }}<budoux-ja>（{{ rule_obj.label }}）</budoux-ja></dt>
     {% capture seen_tags %}{{ seen_tags | append:req }}{% endcapture %}
     {% for t in types %}
       {% assign rs = site.data.rules[t] | sort: "label" %}
