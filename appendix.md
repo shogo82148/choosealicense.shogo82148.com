@@ -81,7 +81,7 @@ class: license-types
     {% if seen_tags contains req %}
       {% continue %}
     {% endif %}
-    <dt id="{{ req }}">{{ rule_obj.label }}</dt>
+    <dt id="{{ req }}"><budoux-ja>{{ rule_obj.label }}（{{ rule_obj.label_ja }}）</budoux-ja></dt>
     {% capture seen_tags %}{{ seen_tags | append:req }}{% endcapture %}
     {% for t in types %}
       {% assign rs = site.data.rules[t] | sort: "label" %}

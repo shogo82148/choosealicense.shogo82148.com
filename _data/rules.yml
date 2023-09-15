@@ -1,56 +1,73 @@
 permissions:
-  - description: The licensed material and derivatives may be used for commercial purposes.
+  - description: ライセンスされた素材および派生物を商業目的で使用することができます。
+    label_ja: 商業利用
     label: Commercial use
     tag: commercial-use
-  - description: The licensed material may be modified.
+  - description: ライセンスされた素材を変更することができます。
+    label_ja: 改変
     label: Modification
     tag: modifications
-  - description: The licensed material may be distributed.
+  - description: ライセンスされた素材を配布することができます。
+    label_ja: 配布
     label: Distribution
     tag: distribution
-  - description: The licensed material may be used and modified in private.
+  - description: ライセンスされた素材を私的に使用し、変更することができます。
+    label_ja: 私的利用
     label: Private use
     tag: private-use
-  - description: This license provides an express grant of patent rights from contributors.
+  - description: このライセンスは、コントリビュータからの特許権を明示的に認めるものです。
+    label_ja: 特許利用
     label: Patent use
     tag: patent-use
 
 conditions:
-  - description: A copy of the license and copyright notice must be included with the licensed material.
+  - description: ライセンスされた資料には、ライセンスと著作権表示のコピーを含める必要があります。
     label: License and copyright notice
+    label_ja: ライセンスと著作権表示
     tag: include-copyright
-  - description: A copy of the license and copyright notice must be included with the licensed material in source form, but is not required for binaries.
+  - description: ライセンスされた資料には、ソース形式でライセンスと著作権表示のコピーを含める必要がありますが、バイナリには必要ありません。
     label: License and copyright notice for source
+    label_ja: ライセンスと著作権表示（ソース）
     tag: include-copyright--source
-  - description: Changes made to the licensed material must be documented.
+  - description: ライセンスされた資料に対する変更は文書化する必要があります。
     label: State changes
+    label_ja: 変更の記録
     tag: document-changes
-  - description: Source code must be made available when the licensed material is distributed.
+  - description: ライセンスされた資料が配布されるときには、ソースコードを提供する必要があります。
     label: Disclose source
+    label_ja: ソースコードの開示
     tag: disclose-source
-  - description: Users who interact with the licensed material via network are given the right to receive a copy of the source code.
+  - description: ネットワークを介してライセンスされた資料にアクセスするユーザーには、ソースコードのコピーを受け取る権利が与えられます。
     label: Network use is distribution
+    label_ja: ネットワーク利用は配布
     tag: network-use-disclose
-  - description: Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.
+  - description: ライセンスされた資料を配布する際には、変更点は同じライセンスの下でリリースする必要があります。場合によっては、類似または関連するライセンスを使用することができます。
     label: Same license
+    label_ja: 同一ライセンス
     tag: same-license
-  - description: Modifications of existing files must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.
+  - description: ライセンスされた資料を配布する際には、既存のファイルの変更点は同じライセンスの下でリリースする必要があります。場合によっては、類似または関連するライセンスを使用することができます。
     label: Same license (file)
+    label_ja: 同一ライセンス（ファイル）
     tag: same-license--file
-  - description: Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used, or this condition may not apply to works that use the licensed material as a library.
+  - description: ライセンスされた資料を配布する際には、変更点は同じライセンスの下でリリースする必要があります。場合によっては、類似または関連するライセンスを使用することができます。また、ライセンスされた資料をライブラリとして使用する作品には、この条件が適用されない場合があります。
     label: Same license (library)
+    label_ja: 同一ライセンス（ライブラリ）
     tag: same-license--library
 
 limitations:
-  - description: This license explicitly states that it does NOT grant trademark rights, even though licenses without such a statement probably do not grant any implicit trademark rights.
+  - description: このライセンスは、商標権を付与しないことを明示的に述べています。このような声明がないライセンスは、おそらく暗黙の商標権を付与しないと思われます。
     label: Trademark use
+    label_ja: 商標利用
     tag: trademark-use
-  - description: This license includes a limitation of liability.
+  - description: このライセンスには責任制限が含まれています。
     label: Liability
+    label_ja: 責任制限
     tag: liability
-  - description: This license explicitly states that it does NOT grant any rights in the patents of contributors.
+  - description: このライセンスは、貢献者の特許に関する権利を明示的に付与しないことを明示しています。
     label: Patent use
+    label_ja: 特許利用
     tag: patent-use
-  - description: This license explicitly states that it does NOT provide any warranty.
+  - description: このライセンスは、明示的にいかなる保証も提供しないことを明示しています。
     label: Warranty
+    label_ja: 保証
     tag: warranty
