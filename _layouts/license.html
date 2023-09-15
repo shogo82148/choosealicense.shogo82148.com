@@ -48,7 +48,8 @@
     <pre id="license-text">{{ content | replace:"<", "&lt;" | replace:">", "&gt;" }}</pre>
 
     {% if page.translate and page.translate.ja %}
-    <p><budoux-ja>参考日本語訳</budoux-ja></p>
+    <hr>
+    <h3><budoux-ja>参考日本語訳</budoux-ja></h3>
     <p>この日本語訳はオープンソースライセンスをより良く理解するための参考訳です。頒布条件は原文ののみが有効です。</p>
     <p class="license-overview-description"><budoux-ja>{{ page.translate.ja | replace:"<", "&lt;" | replace:">", "&gt;"
           | newline_to_br}}</budoux-ja>
