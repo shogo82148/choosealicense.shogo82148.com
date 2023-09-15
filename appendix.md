@@ -21,7 +21,7 @@ If you're here to choose a license, **[start from the home page](/)** to see a f
         {% continue %}
       {% endif %}
       {% capture seen_tags %}{{ seen_tags | append:rule_obj.tag }}{% endcapture %}
-      <th scope="col" style="text-align: center; width:7%"><a href="#{{ rule_obj.tag }}">{{ rule_obj.label }}</a></th>
+      <th scope="col" style="text-align: center; width:7%"><a href="#{{ rule_obj.tag }}"><budoux-ja>{{ rule_obj.label }}</budoux-ja></a></th>
     {% endfor %}
   {% endfor %}
 </tr>
@@ -66,11 +66,11 @@ If you're here to choose a license, **[start from the home page](/)** to see a f
 
 ## 凡例
 
-<p>オープンソースライセンスは、著作権その他の「知的財産」法が許容しないことを許可する<span class="license-permissions"><span class="license-sprite"></span></span> <b>権限</b>を一般に提供します。</p>
+<p><budoux-ja>オープンソースライセンスは、著作権その他の「知的財産」法が許容しないことを許可する</budoux-ja><span class="license-permissions"><span class="license-sprite"></span></span> <b><budoux-ja>権限</budoux-ja></b><budoux-ja>を一般に提供します。</budoux-ja></p>
 
-<p>ほとんどのオープンソースライセンスの許可は、<span class="license-conditions"><span class="license-sprite"></span></span> <b>条件</b>の遵守に従うことが前提となっています。</p>
+<p><budoux-ja>ほとんどのオープンソースライセンスの許可は、</budoux-ja><span class="license-conditions"><span class="license-sprite"></span></span> <b><budoux-ja>条件</budoux-ja></b><budoux-ja>の遵守に従うことが前提となっています。</budoux-ja></p>
 
-<p>ほとんどのオープンソースライセンスには、<span class="license-limitations"><span class="license-sprite"></span></span> <b>制限事項</b>があり、通常は保証や責任を否認し、特許や商標を明示的に除外することがあります。</p>
+<p><budoux-ja>ほとんどのオープンソースライセンスには、</budoux-ja><span class="license-limitations"><span class="license-sprite"></span></span> <b><budoux-ja>制限事項</budoux-ja></b><budoux-ja>があり、通常は保証や責任を否認し、特許や商標を明示的に除外することがあります。</budoux-ja></p>
 
 <dl>
 {% assign seen_tags = '' %}
@@ -87,7 +87,7 @@ If you're here to choose a license, **[start from the home page](/)** to see a f
       {% assign rs = site.data.rules[t] | sort: "label" %}
       {% for r in rs %}
         {% if r.tag == req %}
-          <dd class="license-{{t}}"><span class="license-sprite"></span> {{ r.description }}</dd>
+          <dd class="license-{{t}}"><span class="license-sprite"></span><budoux-ja>{{ r.description }}</budoux-ja></dd>
         {% endif %}
       {% endfor %}
     {% endfor %}
