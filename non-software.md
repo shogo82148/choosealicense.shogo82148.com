@@ -1,27 +1,27 @@
 ---
-title: Non-Software Licenses
+title: ソフトウェアでないライセンス
 layout: default
 permalink: /non-software/
 ---
 
-Open source software licenses can be also used for non-software works and are often the best choice, especially when the works in question can be edited and versioned as source. [Choose an open source license](/).
+オープンソースソフトウェアライセンスは、非ソフトウェア作品にも使用でき、とく編集およびバージョン管理がソースとして行われる場合には、しばしば最良の選択肢です。[オープンソースライセンスを選択する](/)。
 
-### Data, media, etc.
+### データ、メディアなど
 
-[CC0-1.0](/licenses/cc0-1.0/), [CC-BY-4.0](/licenses/cc-by-4.0/), and [CC-BY-SA-4.0](/licenses/cc-by-sa-4.0/) are [open](https://opendefinition.org) licenses used for non-software material ranging from datasets to videos. Note that Creative Commons does [not recommend its licenses be used for software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software) or hardware.
+[CC0-1.0](/licenses/cc0-1.0/)、[CC-BY-4.0](/licenses/cc-by-4.0/)、および[CC-BY-SA-4.0](/licenses/cc-by-sa-4.0/)はデータセットからビデオまでの非ソフトウェア素材に使用される[オープン](https://opendefinition.org) ライセンスです。 Creative Commons はハードウェアや[ソフトウェアにライセンスを適用することを推奨していません](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)。
 
-### Documentation
+### ドキュメンテーション
 
-Any open source software license or open license for media (see [above](#data-media-etc)) also applies to software documentation. If you use different licenses for your software and its documentation, be sure to specify that source code examples in the documentation are also licensed under the software license.
+任意のオープンソースソフトウェアライセンスやメディアのオープンライセンス（[上記](#data-media-etc)参照）は、ソフトウェアのドキュメントにも適用されます。ソフトウェアとそのドキュメントに異なるライセンスを使用する場合、ドキュメント内のソースコード例もソフトウェアライセンスの下でライセンスされることを明記してください。
 
-### Fonts
+### フォント
 
-The [SIL Open Font License 1.1](/licenses/ofl-1.1/) keeps fonts open, allowing them to be freely used in other works.
+[SIL オープンフォントライセンス 1.1](/licenses/ofl-1.1/)はフォントをオープンに保持し、他の作品で自由に使用できるようにします。
 
-### Hardware
+### ハードウェア
 
-Designs for [open source hardware](https://www.oshwa.org/definition/) ranging from furniture to [FPGAs](https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/) are covered by CERN Open Hardware licenses: [CERN-OHL-P-2.0](/licenses/cern-ohl-p-2.0/) (permissive), [CERN-OHL-W-2.0](/licenses/cern-ohl-w-2.0/) (weakly reciprocal), and [CERN-OHL-S-2.0](/licenses/cern-ohl-s-2.0/) (strongly reciprocal).
+家具から[FPGA](https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/)までの[オープンソースハードウェア](https://www.oshwa.org/definition/)のデザインは、CERN オープンハードウェアライセンスによってカバーされています: [CERN-OHL-P-2.0](/licenses/cern-ohl-p-2.0/)（寛容）、[CERN-OHL-W-2.0](/licenses/cern-ohl-w-2.0/)（弱い相互性）、そして[CERN-OHL-S-2.0](/licenses/cern-ohl-s-2.0/)（強い相互性）。
 
-### Mixed projects
+### 複合プロジェクト
 
-If your project contains a mix of different types of material, you can include multiple licenses, as long as you are explicit about which license applies to each part of the project. See [the license notice for this site](https://github.com/github/choosealicense.com#license) as an example.
+プロジェクトが異なるタイプの材料のミックスを含む場合、プロジェクトの各部分にどのライセンスが適用されるかを明示する限り、複数のライセンスを含めることができます。例として[このサイトのライセンス通知](https://github.com/github/choosealicense.com#license)を参照してください。
