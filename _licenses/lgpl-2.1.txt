@@ -5,11 +5,11 @@ nickname: GNU LGPLv2.1
 redirect_from: /licenses/lgpl-v2.1/
 hidden: false
 
-description: Primarily used for software libraries, the GNU LGPL requires that derived works be licensed under the same license, but works that only link to it do not fall under this restriction. There are two commonly used versions of the GNU LGPL.
+description: 主にソフトウェアライブラリに使用されるGNU LGPLは、派生作品が同じライセンスの下でライセンスされる必要があるという要件があるが、それにリンクするだけの作品はこの制限の対象外となる。GNU LGPLには、2つの一般的に使用されるバージョンがある。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtという名前）を作成し、ライセンスのテキストをファイルにコピーします。
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: 自由ソフトウェア財団は、各ファイルの先頭にボイラープレートの通知を追加することを推奨しています。ボイラープレートについては、ライセンスの「付録」に記載されています。
 
 using:
 
