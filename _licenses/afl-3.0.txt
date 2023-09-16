@@ -2,9 +2,9 @@
 title: Academic Free License v3.0
 spdx-id: AFL-3.0
 
-description: The Academic Free License is a variant of the Open Software License that does not require that the source code of derivative works be disclosed. It contains explicit copyright and patent grants and reserves trademark rights in the author.
+description: Academic Free Licenseは、派生作品のソースコードの開示を必要としないOpen Software Licenseのバリアントです。明示的な著作権および特許権の付与を含み、著者の商標権を保留します。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Files licensed under AFL 3.0 must also include the notice "Licensed under the Academic Free License version 3.0" adjacent to the copyright notice.
+how: ソースコードのルートに、通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。AFL 3.0でライセンスされたファイルには、著作権表示の隣に「Licensed under the Academic Free License version 3.0」という通知も含める必要があります。
 
 using:
 
