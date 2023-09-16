@@ -2,11 +2,11 @@
 title: Educational Community License v2.0
 spdx-id: ECL-2.0
 
-description: The Educational Community License version 2.0 ("ECL") consists of the Apache 2.0 license, modified to change the scope of the patent grant in section 3 to be specific to the needs of the education communities using this license.
+description: Educational Community License version 2.0（「ECL」）は、このライセンスを使用する教育コミュニティのニーズに特化した特許権の付与範囲を変更するために修正されたApache 2.0ライセンスで構成されています。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常 LICENSE または LICENSE.txt という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: The Apereo Foundation recommends taking the additional step of adding a boilerplate notice to the header of each source file. You can find the notice in the appendix at the very end of the license text.
+note: Apereo Foundationは、各ソースファイルのヘッダーにボイラープレートの通知を追加することを推奨しています。通知については、ライセンステキストの最後にある付録で確認できます。
 
 using:
   Sakai: https://github.com/sakaiproject/sakai/blob/master/LICENSE
