@@ -2,11 +2,11 @@
 title: Universal Permissive License v1.0
 spdx-id: UPL-1.0
 
-description: A permissive, OSI and FSF approved, GPL compatible license, expressly allowing attribution with just a copyright notice and a short form link rather than the full text of the license.  Includes an express grant of patent rights.  Licensed works and modifications may be distributed under different terms and without source code, and the patent grant may also optionally be expanded to larger works to permit use as a contributor license agreement.
+description: パーミッシブで、OSIおよびFSFが承認した、GPLと互換性のあるライセンスで、著作権表示と短い形式のリンクだけで帰属を許可することを明示的に認めています。特許権の明示的な付与を含みます。ライセンスされた作品および修正は、異なる条件で配布され、ソースコードなしで配布されることがあります。また、貢献者ライセンス契約として使用するために、特許権の付与を大規模な作品に拡張することもできます。
 
-how: Insert the license or a link to it along with a copyright notice into your source file(s), and/or create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file, replacing [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtと命名される）を作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権保持者の名前（または名前）に置き換えます。
 
-note: It is recommended to add a link to the license and copyright notice at the top of each source file, example text can be found at https://oss.oracle.com/licenses/upl/.
+note: 各ソースファイルの先頭にライセンスと著作権表示へのリンクを追加することを推奨します。例文は、https://oss.oracle.com/licenses/upl/ で見つけることができます。
 
 using:
   graaljs: https://github.com/oracle/graaljs/blob/master/LICENSE
