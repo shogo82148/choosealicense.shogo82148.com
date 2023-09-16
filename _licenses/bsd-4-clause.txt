@@ -2,9 +2,9 @@
 title: BSD 4-Clause "Original" or "Old" License
 spdx-id: BSD-4-Clause
 
-description: A permissive license similar to the <a href="/licenses/bsd-3-clause/">BSD 3-Clause License</a>, but with an "advertising clause" that requires an acknowledgment of the original source in all advertising material.
+description: 広告条項を持つ寛容なライセンスで、<a href="/licenses/bsd-3-clause/">BSD 3-Clause License</a>に似ていますが、すべての広告資料に元のソースの謝辞を要求します。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders. Replace [project] with the project organization, if any, that sponsors this work.
+how: ソースコードのルートに、通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権所有者の名前（または名前）に、[project]をこの作品をスポンサーするプロジェクト組織（ある場合）に置き換えます。
 
 using:
   Choco-solver: https://github.com/chocoteam/choco-solver/blob/master/LICENSE
