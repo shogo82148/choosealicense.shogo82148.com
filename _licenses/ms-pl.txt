@@ -2,9 +2,9 @@
 title: Microsoft Public License
 spdx-id: MS-PL
 
-description: An open source license with a patent grant.
+description: 特許付与条項を持つオープンソースライセンス。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtという名前）を作成し、ライセンスのテキストをファイルにコピーします。
 
 using:
 
