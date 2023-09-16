@@ -5,11 +5,11 @@ redirect_from: /licenses/apache/
 featured: true
 hidden: false
 
-description: A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: 著作権およびライセンス表示の保持が必要な寛容なライセンスです。貢献者は特許権の明示的な付与を提供します。ライセンスされた作品、変更点、および大規模な作品は、異なる条件で配布され、ソースコードを提供する必要はありません。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに、通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: The Apache Software Foundation <a href="https://apache.org/foundation/license-faq.html#Apply-My-Software">recommends</a> taking the additional step of adding a boilerplate notice to the header of each source file. You can find the notice in the appendix at the very end of the license text.
+note: Apache Software Foundationは、各ソースファイルのヘッダーにボイラープレート通知を追加することを<a href="https://apache.org/foundation/license-faq.html#Apply-My-Software">推奨</a>しています。通知は、ライセンステキストの最後にある付録にあります。
 
 using:
   Kubernetes: https://github.com/kubernetes/kubernetes/blob/master/LICENSE
