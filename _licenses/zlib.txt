@@ -2,9 +2,9 @@
 title: zlib License
 spdx-id: Zlib
 
-description: A short permissive license, compatible with GPL. Requires altered source versions to be documented as such.
+description: 短い許諾型ライセンスで、GPLと互換性があります。変更されたソースバージョンがそのように文書化されることを要求します。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtと命名される）を作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権保持者の名前（または名前）に置き換えます。
 
 using:
   GLFW: https://github.com/glfw/glfw/blob/master/LICENSE.md
