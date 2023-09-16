@@ -3,11 +3,11 @@ title: CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 spdx-id: CERN-OHL-W-2.0
 nickname: CERN OHL v2 Weakly Reciprocal
 
-description: Permissions of this weakly-reciprocal license are conditioned on making available complete sources of licensed works and modifications under the same license. Notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without sources for the larger work.
+description: この弱い相互的なライセンスの許可は、ライセンスされた作品および修正の完全なソースを同じライセンスの下で提供することに条件付けられています。通知は保存される必要があります。貢献者は特許権の明示的な付与を提供します。ただし、ライセンスされた作品によって提供されるインターフェイスを介してライセンスされた作品を使用する大規模な作品は、異なる条件で配布され、大規模な作品のソースがない場合があります。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常 LICENSE または LICENSE.txt という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: 'CERN <a href="https://ohwr.org/project/cernohl/wikis/uploads/c2e5e9d297949b5c2d324a6cbf6adda0/cern_ohl_w_v2_howto.pdf">recommends</a> adding the following information in the source files: copyright and license notice, a disclaimer of warranties and a source location. You can also include the source location in a part of the design which will be visible in the end product.'
+note: CERNは、ソースファイルに以下の情報を<a href="https://ohwr.org/project/cernohl/wikis/uploads/c2e5e9d297949b5c2d324a6cbf6adda0/cern_ohl_w_v2_howto.pdf">推奨</a>しています：著作権とライセンスの通知、保証の免責条項、およびソースの場所。また、エンドプロダクトで表示される部分にソースの場所を含めることもできます。
 
 using:
   Simple PCIe FMC carrier: https://ohwr.org/project/spec/blob/master/LICENSES/CERN-OHL-W-2.0.txt
