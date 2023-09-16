@@ -3,9 +3,9 @@ title: Open Data Commons Open Database License v1.0
 spdx-id: ODbL-1.0
 nickname: ODbL
 
-description: The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify, and use a database while maintaining this same freedom for others.
+description: The Open Database License (ODbL)は、ユーザーがデータベースを自由に共有、変更、使用できるようにすることを目的としたライセンス契約です。同じ自由を他の人にも提供できます。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtと命名される）を作成し、ライセンスのテキストをファイルにコピーします。
 
 using:
   World Countries: https://github.com/mledoze/countries/blob/master/LICENSE
