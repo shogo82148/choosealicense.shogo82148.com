@@ -3,9 +3,9 @@ title: BSD 3-Clause Clear License
 spdx-id: BSD-3-Clause-Clear
 nickname: Clear BSD
 
-description: A variant of the <a href="/licenses/bsd-3-clause/">BSD 3-Clause License</a> that explicitly does not grant any patent rights.
+description: 明示的に特許権を付与しない、<a href="/licenses/bsd-3-clause/">BSD 3-Clause License</a>のバリアント。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: ソースコードのルートに、通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権所有者の名前（または名前）に置き換えます。
 
 using:
 
