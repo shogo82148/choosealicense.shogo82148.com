@@ -3,11 +3,11 @@ title: Boost Software License 1.0
 spdx-id: BSL-1.0
 hidden: false
 
-description: A simple permissive license only requiring preservation of copyright and license notices for source (and not binary) distribution. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: 著作権およびライセンス表示の保持が必要な寛容なライセンスです。ライセンスされた作品、変更点、および大規模な作品は、異なる条件で配布され、ソースコードを提供する必要はありません。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに、通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: Boost recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the <a href="https://www.boost.org/users/license.html#FAQ">Boost Software License FAQ</a>.
+note: Boostは、各ファイルの先頭にボイラープレート通知を追加することを<a href="https://www.boost.org/users/license.html#FAQ">推奨</a>しています。ボイラープレートは、ライセンスの<a href="https://www.boost.org/users/license.html#FAQ">FAQ</a>にあります。
 
 using:
   Boost: https://github.com/boostorg/boost/blob/master/LICENSE_1_0.txt
