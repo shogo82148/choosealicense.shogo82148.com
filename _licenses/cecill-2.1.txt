@@ -2,9 +2,9 @@
 title: CeCILL Free Software License Agreement v2.1
 spdx-id: CECILL-2.1
 
-description: Strong copyleft license made by three French public research organisations, CEA, CNRS, and Inria, compatible with AGPL-3.0, EUPL-1.1, and GPL-2.0, or later versions of those licenses.
+description: CEA、CNRS、Inria の3つのフランスの公共研究機関によって作成された強力なコピーレフトライセンスで、AGPL-3.0、EUPL-1.1、GPL-2.0、またはそれらのライセンスの後続バージョンと互換性があります。
 
-how: Create a text file (typically named LICENSE or LICENCE) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常 LICENSE または LICENCE という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
 using:
   BMC-Tools: https://github.com/ANSSI-FR/bmc-tools/blob/master/LICENCE.txt
