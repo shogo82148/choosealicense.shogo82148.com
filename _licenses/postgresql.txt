@@ -2,9 +2,9 @@
 title: PostgreSQL License
 spdx-id: PostgreSQL
 
-description: A very short, BSD-style license, used specifically for PostgreSQL.
+description: PostgreSQLに特化した非常に短いBSDスタイルのライセンスです。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtと命名される）を作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権保持者の名前（または名前）に置き換えます。
 
 using:
   pgBadger: https://github.com/darold/pgbadger/blob/master/LICENSE
