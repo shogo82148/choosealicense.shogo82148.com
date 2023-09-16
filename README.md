@@ -1,36 +1,42 @@
-**[ChooseALicense.com](https://choosealicense.com)** aims to provide **accurate**, **non-judgmental**, and **understandable** information about popular **open source licenses** in order to **help people make informed decisions** about the projects they start, maintain, contribute to, and use.
+## [ChooseALicense.shogo82148.com](https://choosealicense.shogo82148.com)について
 
-[![](https://github.com/github/choosealicense.com/workflows/Build%20and%20Test/badge.svg)](https://github.com/github/choosealicense.com/actions?query=workflow%3ABuild%20and%20Test)
+[ChooseALicense.com](https://choosealicense.com)の日本語翻訳プロジェクトです。
 
-We catalog [select](CONTRIBUTING.md#adding-a-license) open source licenses with a [Jekyll collection](https://jekyllrb.com/docs/collections/) (in `_licenses`). The catalog is used to render [ChooseALicense.com](https://choosealicense.com) and is regularly vendored into [Licensee](https://github.com/licensee/licensee), which GitHub uses to provide a [license chooser and license detection](https://help.github.com/articles/adding-a-license-to-a-repository/), a [licenses API](https://developer.github.com/v3/licenses/), and to [display license descriptions and metadata](https://github.com/blog/2335-open-source-license-descriptions-and-metadata).
+---
 
-## Goals
+**[ChooseALicense.com](https://choosealicense.com)**は、人々が始め、維持、貢献、使用するプロジェクトについて**正確で**、**偏見のない**、そして**理解しやすい**情報を提供することを目的としています。これにより、人々が情報に基づいた決定をするのを**支援**できます。
 
-- Be accurate, non-judgmental, and understandable. Our goal is to help you find a license that meets _your_ goals.
-- The homepage should have just enough to help most folks make a decision about what license to use for a project they contribute to.
-- For the rest, the site will contain additional information about licenses common to specific communities and situations.
-- Collaborate with and reinforce other licensing best practices and standards projects.
-- Not comprehensive. Seems like an odd goal, but there are a bajillion licenses out there. We're going to have to filter that down to a small list of those that matter.
+[![Build and Test](https://github.com/shogo82148/choosealicense.shogo82148.com/actions/workflows/test.yml/badge.svg)](https://github.com/shogo82148/choosealicense.shogo82148.com/actions/workflows/test.yml)
 
-## Run it on your machine
+私たちは、[Jekyll コレクション](https://jekyllrb.com/docs/collections/)（`_licenses`内）を使用して、オープンソースライセンスを[選択](CONTRIBUTING.md#adding-a-license)し、カタログ化しています。このカタログは、[ChooseALicense.com](https://choosealicense.com)をレンダリングするために使用され、定期的に[Licensee](https://github.com/licensee/licensee)にベンダー提供されます。GitHub は、[ライセンスの選択とライセンスの検出](https://help.github.com/articles/adding-a-license-to-a-repository/)、[ライセンス API](https://developer.github.com/v3/licenses/)、[ライセンスの説明とメタデータの表示](https://github.com/blog/2335-open-source-license-descriptions-and-metadata)を提供するために、Licensee を使用しています。
 
-### Managing Dependencies
+## ゴール
 
-It may be the case that your system doesn't have the required dependencies. You will need `cmake` and `make` installed on your computer.
+- 正確で、偏見のない、理解しやすい情報を提供すること。私たちの目標は、*あなたの*目標に合ったライセンスを見つけるのを助けることです。
+- ホームページには、ほとんどの人がプロジェクトに使用するライセンスを決定するのに十分な情報が含まれている必要があります。
+- その他の場合には、サイトには、特定のコミュニティや状況に共通するライセンスに関する追加情報が含まれている必要があります。
+- 他のライセンスのベストプラクティスと標準プロジェクトと協力し、強化すること。
+- 網羅的ではない。奇妙な目標のように思えますが、世界中には無数のライセンスがあります。私たちは、重要なものに絞り込む必要があります。
 
-For MacOS, use Homebrew to update your dependencies (install Homebrew from <https://brew.sh/>):
+## 自分のマシンで実行する
+
+### 依存関係の管理
+
+必要な依存関係がシステムにない場合があります。コンピューターには`cmake`と`make`が必要です。
+
+macOS の場合、Homebrew を使用して依存関係を更新します（<https://brew.sh/>から Homebrew をインストールしてください）：
 
 ```bash
 brew install make cmake
 ```
 
-For Linux/Ubuntu, use the `apt-get` tool to install the dependencies:
+Linux/Ubuntu の場合、`apt-get`ツールを使用して依存関係をインストールします：
 
 ```bash
 sudo apt-get install make cmake
 ```
 
-### Installing and Running the tool
+### ツールのインストールと実行
 
 ```bash
 git clone https://github.com/github/choosealicense.com.git --recursive
@@ -39,17 +45,17 @@ cd choosealicense.com
 ./script/server
 ```
 
-Open `http://localhost:4000` in your favorite browser.
+お好きなブラウザで`http://localhost:4000`を開いてください。
 
-If you encounter any issues with the above steps, please refer to the official [Jekyll](https://jekyllrb.com/docs/) documentation and this [guide on running Jekyll as a non-superuser](https://jekyllrb.com/docs/troubleshooting/#no-sudo) for more detailed installation instructions.
+上記の手順で問題が発生した場合は、公式の[Jekyll](https://jekyllrb.com/docs/)ドキュメントと、より詳細なインストール手順についての[non-superuser として Jekyll を実行するためのガイド](https://jekyllrb.com/docs/troubleshooting/#no-sudo)を参照してください。
 
-## Adding a license
+## ライセンスの追加
 
-For information on adding a license, see [the CONTRIBUTING file](https://github.com/github/choosealicense.com/blob/gh-pages/CONTRIBUTING.md#adding-a-license).
+ライセンスの追加に関する情報については、[CONTRIBUTING ファイル](https://github.com/github/choosealicense.com/blob/gh-pages/CONTRIBUTING.md#adding-a-license)を参照してください。
 
-## License metadata
+## ライセンスメタデータ
 
-Licenses sit in the `/_licenses` folder. Each license has YAML front matter describing the license's properties. The body of the file contains the text of the license in plain text. The available metadata fields are:
+ライセンスは`/_licenses`フォルダーにあります。各ライセンスには、ライセンスのプロパティを説明する YAML フロントマターがあります。ファイルの本文には、ライセンスのテキストがプレーンテキストで含まれています。利用可能なメタデータフィールドは以下のとおりです。
 
 <!-- auto generated by ./script/generate-docs starts here -->
 
@@ -117,4 +123,4 @@ Licenses sit in the `/_licenses` folder. Each license has YAML front matter desc
 
 ## License
 
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
+このプロジェクトのコンテンツ自体は、[クリエイティブ・コモンズ・ライセンス 表示 3.0 非移植](https://creativecommons.org/licenses/by/3.0/deed.ja)の下でライセンスされており、そのコンテンツをフォーマットして表示するために使用される基本的なソースコードは、[MIT ライセンス](LICENSE.md)の下でライセンスされています。
