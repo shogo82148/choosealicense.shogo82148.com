@@ -4,9 +4,9 @@ spdx-id: EPL-2.0
 redirect_from: /licenses/eclipse/
 hidden: false
 
-description: This commercially-friendly copyleft license provides the ability to commercially license binaries; a modern royalty-free patent license grant; and the ability for linked works to use other licenses, including commercial ones.
+description: この商業的にフレンドリーなコピーレフトライセンスは、バイナリを商業的にライセンスする機能、現代的なロイヤリティフリーの特許ライセンス付与、およびリンクされた作品が商業的なライセンスを含め、他のライセンスを使用することができる機能を提供します。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常 LICENSE または LICENSE.txt という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
 using:
   hawkBit: https://github.com/eclipse/hawkbit/blob/master/LICENSE
