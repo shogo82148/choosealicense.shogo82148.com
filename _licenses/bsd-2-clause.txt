@@ -4,9 +4,9 @@ spdx-id: BSD-2-Clause
 redirect_from: /licenses/bsd/
 hidden: false
 
-description: A permissive license that comes in two variants, the <a href="/licenses/bsd-2-clause/">BSD 2-Clause</a> and <a href="/licenses/bsd-3-clause/">BSD 3-Clause</a>. Both have very minute differences to the MIT license.
+description: MITライセンスと非常に微小な違いがある、2つのバリアント、<a href="/licenses/bsd-2-clause/">BSD 2-Clause</a>および<a href="/licenses/bsd-3-clause/">BSD 3-Clause</a>を持つ寛容なライセンス。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: ソースコードのルートに、通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権所有者の名前（または名前）に置き換えます。
 
 using:
   go-redis: https://github.com/go-redis/redis/blob/master/LICENSE
