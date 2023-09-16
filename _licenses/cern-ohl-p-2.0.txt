@@ -3,11 +3,11 @@ title: CERN Open Hardware Licence Version 2 - Permissive
 spdx-id: CERN-OHL-P-2.0
 nickname: CERN OHL v2 Permissive
 
-description: A permissive license for hardware designs, with conditions only requiring preservation of notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without sources.
+description: ハードウェアデザインのための許容的なライセンスで、通知の保存のみを要求する条件のみがあります。貢献者は特許権の明示的な付与を提供します。ライセンスされた作品、修正、および大規模な作品は、異なる条件で配布され、ソースなしで配布される場合があります。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常 LICENSE または LICENSE.txt という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: 'CERN <a href="https://ohwr.org/project/cernohl/wikis/uploads/8a6b5d01f71c207c49493e4d114d61e6/cern_ohl_p_v2_howto.pdf">recommends</a> adding the following information in the source files: copyright and license notice, a disclaimer of warranties and a source location. You can also include the source location in a part of the design which will be visible in the end product.'
+note: CERNは、ソースファイルに以下の情報を<a href="https://ohwr.org/project/cernohl/wikis/uploads/8a6b5d01f71c207c49493e4d114d61e6/cern_ohl_p_v2_howto.pdf">推奨</a>しています：著作権とライセンスの通知、保証の免責条項、およびソースの場所。また、エンドプロダクトで表示される部分にソースの場所を含めることもできます。
 
 using:
   tedium: https://github.com/jboone/tedium/blob/master/LICENSE-CERN-OHL-P-v2
