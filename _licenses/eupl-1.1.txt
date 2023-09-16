@@ -3,11 +3,11 @@ title: European Union Public License 1.1
 spdx-id: EUPL-1.1
 redirect_from: /licenses/eupl-v1.1/
 
-description:「欧州連合パブリック・ライセンス」（EUPL）は、欧州委員会の提唱により作成され、欧州連合の22の公用語で承認されたコピーレフトのフリー/オープンソースソフトウェアライセンスです。
+description: 「欧州連合パブリック・ライセンス」（EUPL）は、欧州委員会の提唱により作成され、欧州連合の22の公用語で承認されたコピーレフトのフリー/オープンソースソフトウェアライセンスです。
 
 how: ソースコードのルートに通常 COPYING または LICENCE.txt という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: 欧州委員会は、各ファイルの先頭にボイラープレートの通知を追加することを<a href="https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL%201_1%20Guidelines%20EN%20Joinup.pdf#page=17">推奨</a>しています。
+note: '欧州委員会は、各ファイルの先頭にボイラープレートの通知を追加することを<a href="https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL%201_1%20Guidelines%20EN%20Joinup.pdf#page=17">推奨</a>しています。'
 
 using:
 
