@@ -2,9 +2,9 @@
 title: BSD Zero Clause License
 spdx-id: 0BSD
 
-description: The BSD Zero Clause license goes further than the BSD 2-Clause license to allow you unlimited freedom with the software without requirements to include the copyright notice, license text, or disclaimer in either source or binary forms.
+description: BSD Zero Clauseライセンスは、BSD 2-Clauseライセンスよりもさらに進んで、ソフトウェアに関する著作権表示、ライセンステキスト、または免責事項を、ソースコードまたはバイナリ形式のいずれにおいても含める必要がないため、ソフトウェアに対する無制限の自由を許可します。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.  Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders. You may take the additional step of removing the copyright notice.
+how: ソースコードのルートに、通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権所有者の名前（または名前）に置き換えます。著作権表示を削除することもできます。
 
 using:
   gatsby-starter-default: https://github.com/gatsbyjs/gatsby-starter-default/blob/master/LICENSE
