@@ -4,11 +4,11 @@ spdx-id: CC0-1.0
 redirect_from: /licenses/cc0/
 hidden: false
 
-description: The <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 Public Domain Dedication</a> waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
+description: <a href="https://creativecommons.org/publicdomain/zero/1.0/">クリエイティブ・コモンズ CC0 パブリック・ドメイン・デディケーション</a> は、あなたが作成した作品に対する著作権の利益を放棄し、世界中のパブリック・ドメインに対してそれを捧げます。CC0 を使用して、著作権を完全に放棄し、あなたの作品がもっとも広く普及するようにしてください。Unlicense や一般的なソフトウェアライセンスと同様に、CC0 は保証を否認します。CC0 は Unlicense に非常に似ています。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常 LICENSE または LICENSE.txt という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: Creative Commons recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be <a href="https://wiki.creativecommons.org/wiki/CC0_FAQ#May_I_apply_CC0_to_computer_software.3F_If_so.2C_is_there_a_recommended_implementation.3F">found on their website</a>.
+note: Creative Commons は、各ファイルの先頭にボイラープレート通知を追加することを推奨しています。ボイラープレートは、<a href="https://wiki.creativecommons.org/wiki/CC0_FAQ#May_I_apply_CC0_to_computer_software.3F_If_so.2C_is_there_a_recommended_implementation.3F">彼らのウェブサイト</a>で見つけることができます。
 
 using:
   Awesome: https://github.com/sindresorhus/awesome/blob/main/license
