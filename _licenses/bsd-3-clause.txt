@@ -4,9 +4,9 @@ spdx-id: BSD-3-Clause
 nickname: Modified BSD License
 hidden: false
 
-description: A permissive license similar to the <a href="/licenses/bsd-2-clause/">BSD 2-Clause License</a>, but with a 3rd clause that prohibits others from using the name of the copyright holder or its contributors to promote derived products without written consent.
+description: <a href="/licenses/bsd-2-clause/">BSD 2-Clause License</a>に似た寛容なライセンスですが、第3条により、著作権所有者またはその貢献者の名前を使用して派生製品を宣伝することを許可しないことが規定されています。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: ソースコードのルートに、通常はLICENSEまたはLICENSE.txtという名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権所有者の名前（または名前）に置き換えます。
 
 using:
   Flutter: https://github.com/flutter/flutter/blob/master/LICENSE
