@@ -2,9 +2,9 @@
 title: Microsoft Reciprocal License
 spdx-id: MS-RL
 
-description: An open source license with a patent grant similar to the <a href="/licenses/ms-pl/">Microsoft Public License</a>, with the additional condition that any source code for any derived file be provided under this license.
+description: このライセンスは、<a href="/licenses/ms-pl/">Microsoft Public License</a>に類似した特許付与条項を持つオープンソースライセンスであり、派生ファイルのソースコードがこのライセンスの下で提供されることを追加条件としています。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtという名前）を作成し、ライセンスのテキストをファイルにコピーします。
 
 using:
 
