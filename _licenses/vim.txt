@@ -2,9 +2,9 @@
 title: Vim License
 spdx-id: Vim
 
-description: There are no restrictions on using or distributing an unmodified copy of the software. Parts of the software may also be distributed, but the license text must always be included. For modified versions a few restrictions apply. The license is GPL compatible, you may compile the software with GPL libraries and distribute it.
+description: ソフトウェアの変更なしでの使用または配布に制限はありません。ソフトウェアの一部も配布できますが、常にライセンステキストを含める必要があります。変更されたバージョンにはいくつかの制限が適用されます。ライセンスはGPLと互換性があり、GPLライブラリでソフトウェアをコンパイルして配布できます。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [project] with the project name.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtと命名される）を作成し、ライセンスのテキストをファイルにコピーします。[project]をプロジェクト名に置き換えます。
 
 using:
   Vim: https://github.com/vim/vim/blob/master/LICENSE
