@@ -3,11 +3,11 @@ title: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 spdx-id: CERN-OHL-S-2.0
 nickname: CERN OHL v2 Strongly Reciprocal
 
-description: Permissions of this strongly reciprocal license for hardware designs are conditioned on making available complete sources of licensed works and modifications, which include larger works using a licensed work, under the same license. Notices must be preserved. Contributors provide an express grant of patent rights.
+description: ハードウェアデザインのためのこの強く相互的なライセンスの許可は、同じライセンスの下で、ライセンスされた作品および修正、ライセンスされた作品を使用した大規模な作品を含む、ライセンスされた作品および修正の完全なソースを提供することに条件付けられています。通知は保存される必要があります。貢献者は特許権の明示的な付与を提供します。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常 LICENSE または LICENSE.txt という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: 'CERN <a href="https://ohwr.org/project/cernohl/wikis/uploads/cf37727497ca2b5295a7ab83a40fcf5a/cern_ohl_s_v2_user_guide.pdf">recommends</a> adding the following information in the source files: copyright and license notice, a disclaimer of warranties and a source location. You can also include the source location in a part of the design which will be visible in the end product.'
+note: CERNは、ソースファイルに以下の情報を<a href="https://ohwr.org/project/cernohl/wikis/uploads/cf37727497ca2b5295a7ab83a40fcf5a/cern_ohl_s_v2_user_guide.pdf">推奨</a>しています：著作権とライセンスの通知、保証の免責条項、およびソースの場所。また、エンドプロダクトで表示される部分にソースの場所を含めることもできます。
 
 using:
   USB Armory: https://github.com/f-secure-foundry/usbarmory/blob/master/hardware/mark-two/LICENSE
