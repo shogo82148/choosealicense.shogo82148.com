@@ -2,9 +2,9 @@
 title: ISC License
 spdx-id: ISC
 
-description: A permissive license lets people do anything with your code with proper attribution and without warranty. The ISC license is functionally equivalent to the <a href="/licenses/bsd-2-clause/">BSD 2-Clause</a> and <a href="/licenses/mit/">MIT</a> licenses, removing some language that is no longer necessary.
+description: パーミッシブライセンスは、適切な帰属表示と保証なしで、人々があなたのコードを自由に使用できるようにします。ISCライセンスは、<a href="/licenses/bsd-2-clause/">BSD 2-Clause</a>および<a href="/licenses/mit/">MIT</a>ライセンスと機能的に同等であり、不要になったいくつかの言語を削除しています。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtという名前）を作成し、ライセンスのテキストをファイルにコピーします。[year]を現在の年に、[fullname]を著作権保持者の名前（または名前）に置き換えます。
 
 using:
   Starship: https://github.com/starship/starship/blob/master/LICENSE
