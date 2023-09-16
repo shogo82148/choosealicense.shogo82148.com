@@ -2,9 +2,9 @@
 title: Creative Commons Attribution 4.0 International
 spdx-id: CC-BY-4.0
 
-description: Permits almost any use subject to providing credit and license notice. Frequently used for media assets and educational materials. The most common license for Open Access scientific publications. Not recommended for software.
+description: クレジットとライセンスの通知を提供することを条件に、ほとんどの使用を許可します。メディアアセットや教育資料に頻繁に使用されます。オープンアクセスの科学出版物にもっとも一般的に使用されるライセンスです。ソフトウェアには推奨されません。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. It is also acceptable to solely supply a link to a copy of the license, usually to the <a href='https://creativecommons.org/licenses/by/4.0/'>canonical URL for the license</a>.
+how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtという名前）を作成し、ライセンスのテキストをファイルにコピーします。ライセンスのテキストへのリンクを提供することも許容されており、通常はライセンスの<a href='https://creativecommons.org/licenses/by/4.0/'>公式URL</a>へのリンクを提供します。
 
 using:
   caniuse: https://github.com/Fyrd/caniuse/blob/master/LICENSE
