@@ -5,11 +5,11 @@ nickname: GNU GPLv2
 redirect_from: /licenses/gpl-v2/
 hidden: false
 
-description: The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. There are multiple variants of the GNU GPL, each with different requirements.
+description: GNU GPLは、もっとも広く使用されているフリーソフトウェアライセンスであり、強力なコピーレフト要件を持っています。派生作品を配布する場合、作品のソースコードは同じライセンスの下で公開される必要があります。GNU GPLには、異なる要件を持つ複数のバリアントがあります。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: ソースコードのルートに通常 LICENSE または LICENSE.txt という名前のテキストファイルを作成し、ライセンスのテキストをファイルにコピーします。
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: 自由ソフトウェア財団は、各ファイルの先頭にボイラープレートの通知を追加することを推奨しています。ボイラープレートについては、ライセンスの「付録」に記載されています。
 
 using:
   AliSQL: https://github.com/alibaba/AliSQL/blob/master/COPYING
