@@ -2,7 +2,7 @@
 title: Creative Commons Attribution Share Alike 4.0 International
 spdx-id: CC-BY-SA-4.0
 
-description: <a href='/licenses/cc-by-4.0/'>CC-BY-4.0</a>に似ていますが、派生物を同じまたは類似の<a href="https://creativecommons.org/compatiblelicenses/">互換性のある</a>ライセンスで配布することを要求します。メディアアセットや教育資料に頻繁に使用されます。以前のバージョンはWikipediaや他のWikimediaプロジェクトのデフォルトライセンスです。ソフトウェアには推奨されません。
+description: <a href='/licenses/cc-by-4.0/'>CC-BY-4.0</a>に似ていますが、派生物を同じまたは類似の<a href="https://creativecommons.org/compatiblelicenses">互換性のある</a>ライセンスで配布することを要求します。メディアアセットや教育資料に頻繁に使用されます。以前のバージョンはWikipediaや他のWikimediaプロジェクトのデフォルトライセンスです。ソフトウェアには推奨されません。
 
 how: ソースコードのルートにテキストファイル（通常はLICENSEまたはLICENSE.txtという名前）を作成し、ライセンスのテキストをファイルにコピーします。ライセンスのテキストへのリンクを提供することも許容されており、通常はライセンスの<a href='https://creativecommons.org/licenses/by-sa/4.0/'>公式URL</a>へのリンクを提供します。
 
