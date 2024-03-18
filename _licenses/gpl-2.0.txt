@@ -14,7 +14,7 @@ note: 自由ソフトウェア財団は、各ファイルの先頭にボイラ�
 using:
   AliSQL: https://github.com/alibaba/AliSQL/blob/master/COPYING
   Discourse: https://github.com/discourse/discourse/blob/master/LICENSE.txt
-  Joomla!: https://github.com/joomla/joomla-cms/blob/staging/LICENSE.txt
+  Jellyfin: https://github.com/jellyfin/jellyfin/blob/master/LICENSE
 
 permissions:
   - commercial-use
