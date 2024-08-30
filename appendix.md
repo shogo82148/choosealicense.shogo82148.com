@@ -11,7 +11,7 @@ class: license-types
 
 <table border style="font-size: xx-small; position: relative">
 {% assign types = "permissions|conditions|limitations" | split: "|" %}
-<tr style="position: sticky; top: 0">
+<tr style="position: sticky; top: 0; z-index: 1000001; background: color-mix(in srgb, var(--backgroundColor) 70%, transparent);">
   <th scope="col" style="text-align: center">License</th>
   {% assign seen_tags = '' %}
   {% for type in types %}
